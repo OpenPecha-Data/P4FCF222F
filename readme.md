@@ -1,1 +1,1 @@
-#buddhism.ru clean tengyur
+#buddhism.ru Kangyur
